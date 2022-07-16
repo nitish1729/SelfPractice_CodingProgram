@@ -14,11 +14,14 @@ using selfpractice_codingprogramcsharp;
 // PrintAllEvenNum find1 = new PrintAllEvenNum();
 // find1.CheckEvenNum();
 
-  // Console.WriteLine("Find Odd Number between 1 to 100");
-  // OddNumber find2 = new OddNumber();
-  // find2.CheckOddNum();
+// Console.WriteLine("Find Odd Number between 1 to 100");
+// OddNumber find2 = new OddNumber();
+// find2.CheckOddNum();
 
 
-Console.WriteLine("Find Odd Number between 1 to 100");
-FindLargerNum find3 = new FindLargerNum();
-find3.GreaterNum();
+// Console.WriteLine("Find Odd Number between 1 to 100");
+// FindLargerNum find3 = new FindLargerNum();
+// find3.GreaterNum();
+
+Swapping find4 = new Swapping();
+find4.swap();
