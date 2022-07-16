@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SelfPractice_CodingProgramCSharp
+namespace selfpractice_codingprogramcsharp
 {
-    public class PrintAllEvenNumBt
+    public class PrintAllEvenNum
     {
-        public static void Main(string[] args)
+        public  void CheckEvenNum()
 
         {
             for (int i = 0; i < 100; i++)
