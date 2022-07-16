@@ -8,31 +8,32 @@ namespace SelfPractice_CodingProgramCSharp
 {
     public class One_EveonOrOdd
     {
-        public static void Main(string[] args)
+        public  void check()
         {
             Console.WriteLine("Enter the firstnumber");
             int num1 = int.Parse(Console.ReadLine());
-            //Console.WriteLine("Enter the SecondNumber");
-            //int num2 = int.Parse(Console.ReadLine());
-            //int result = num1 % num2;
-            //if (result == 0)
-            //{
+
+            // Console.WriteLine("Enter the SecondNumber");
+            // int num2 = int.Parse(Console.ReadLine());
+            // int result = num1 % num2;
+            // if (result == 0)
+            // {
             //    Console.WriteLine("Entered number is even");
-            //}
-            //else
-            //{
+            // }
+            // else
+            // {
 
             //   Console.WriteLine("Entered number is Odd");
 
-            //}
-            // Console.WriteLine(".....................................");
+            // }
+             Console.WriteLine(".....................................");
             if (num1 % 2 == 0)
             {
-                Console.WriteLine("Entered number is even");
+              Console.WriteLine("Entered number is even");
             }
             else
             {
-                Console.WriteLine("Entered number is Odd");
+              Console.WriteLine("Entered number is Odd");
             }
             Console.ReadLine();
         }
