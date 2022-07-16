@@ -26,5 +26,8 @@ using selfpractice_codingprogramcsharp;
 // Swapping find4 = new Swapping();
 // find4.swap();
 
-Swippingnum find5 = new Swippingnum();
-find5.Swap();
+// Swippingnum find5 = new Swippingnum();
+// find5.Swap();
+
+FibonacciSeries find6 = new FibonacciSeries();
+find6.fibonacci();
