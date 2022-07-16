@@ -23,5 +23,8 @@ using selfpractice_codingprogramcsharp;
 // FindLargerNum find3 = new FindLargerNum();
 // find3.GreaterNum();
 
-Swapping find4 = new Swapping();
-find4.swap();
+// Swapping find4 = new Swapping();
+// find4.swap();
+
+Swippingnum find5 = new Swippingnum();
+find5.Swap();
