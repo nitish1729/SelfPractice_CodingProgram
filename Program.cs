@@ -29,5 +29,8 @@ using selfpractice_codingprogramcsharp;
 // Swippingnum find5 = new Swippingnum();
 // find5.Swap();
 
-FibonacciSeries find6 = new FibonacciSeries();
-find6.fibonacci();
+// FibonacciSeries find6 = new FibonacciSeries();
+//  find6.fibonacci();
+
+  Factorial fact = new Factorial();
+  fact.factorial();
